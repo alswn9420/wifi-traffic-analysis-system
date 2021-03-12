@@ -20,4 +20,4 @@ wifi traffic analysis system using deep learning
 ## 현재 진행도
 ✔ input data의 사이즈와 입력 형태를 정함(겨울방학)\
 ✔ pytorch를 이용한 딥러닝 모델의 layer 및 activate function 구성(겨울방학)\
-✔ dataset을 수집 및 가공 중(03월 12일 기준)\
+✔ dataset을 수집 및 가공 중(03월 12일 기준)
