@@ -1,1 +1,4 @@
-데이터 셋은 실제 와이파이에 연결된 스마트폰 기기의 특정 어플리케이션 패킷을 ubuntu linux 상에서 wireshark를 통해 캡처하였으며, 2021.03.11일 현재 youtube pacp 파일 3.0GB를 가지고 있다. 
+1. dataset
+dataset은 실제 모바일 사용자가 와이파이 AP에 연결하여 주고받는 패킷을 캡처하였다. 
+wifi 무선랜의 monitor 모드를 사용하여 캡처하였고, 
+현재 youtube, instagram, tving, kakaotalk 등의 패킷을 캡처하여 총 1.9G가 존재한다. 
