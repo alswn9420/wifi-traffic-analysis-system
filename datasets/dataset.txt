@@ -1,4 +1,6 @@
 1. dataset
 dataset은 실제 모바일 사용자가 와이파이 AP에 연결하여 주고받는 패킷을 캡처하였다. 
-wifi 무선랜의 monitor 모드를 사용하여 캡처하였고, 
-현재 youtube, instagram, tving, kakaotalk 등의 패킷을 캡처하여 총 1.9G가 존재한다. 
+wifi 무선랜의 monitor 모드를 사용하여 캡처하였다.
+
+dataset 항목 및 캡처 용량 
+youtube: 564.8 mb , instagram: 634 mb, webtoon: 225.3 mb, tving: 602.8 mb, kakaotalk: 292.2 mb, zoom: 82.9 mb 
