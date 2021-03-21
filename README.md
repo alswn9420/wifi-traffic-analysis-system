@@ -21,3 +21,9 @@ wifi traffic analysis system using deep learning
 ✔ input data의 사이즈와 입력 형태를 정함(겨울방학)\
 ✔ pytorch를 이용한 딥러닝 모델의 layer 및 activate function 구성(겨울방학)\
 ✔ dataset을 수집 및 가공 중(03월 12일 기준)
+
+---
+#### 문제점
+1. **encryption**되어 있는 packet => **MAC**기반으로 packet을 수집하기 때문에, 해당 packet의 내용 및 프로토콜, ip와 같은 하위 계층의 정보들이 보이지 않음 
+2. encrypted packet을 어떻게 decryption할 것인지, 방법 찾기 
+3. 각 packet dataset 형태 변환 후 visiualization 통해 연계성 찾고 세부적인 분류 기준 세우기  
